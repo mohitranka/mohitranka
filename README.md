@@ -1,5 +1,7 @@
 ### Hi, I'm Mohit 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=mohitranka&label=Profile%20views&color=0e75b6&style=flat)
+
 Engineering leader focused on **data platforms**, **developer tooling**, and **reliable distributed backends**.
 
 I prefer clarity over cleverness, long-term impact over short wins, and systems that survive real traffic and real people.
