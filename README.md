@@ -2,8 +2,10 @@
 
 Engineering leader with 18+ years across **AI agents**, **data platforms**, **developer tooling**, and **reliable distributed backends**.
 
-**Currently:** founder of [Norvia Labs](https://www.norvialabs.com), building open-source infrastructure for putting AI agents to work inside limits people set. The first product is [Forge](https://github.com/NorviaLabs/forge), a terminal AI coding environment in Rust.  
-**Previously:** [Moveworks](https://www.moveworks.com) (analytics and real-time integrations for an agentic AI assistant) · [LinkedIn](https://www.linkedin.com) (enterprise data platform) · [Postman](https://www.postman.com) (Runtime; Postman on the web) · [Booking.com](https://www.booking.com) (identity & SSO at scale)
+**Currently:** founder of [Norvia Labs](https://www.norvialabs.com), building open-source infrastructure for putting AI agents to work inside limits people set. 
+
+The first product is [Forge](https://github.com/NorviaLabs/forge), a terminal AI coding environment in Rust.  
+**Previously:** [Moveworks](https://www.moveworks.com) (analytics, real-time data ingress) · [LinkedIn](https://www.linkedin.com) (enterprise data platform, integrations) · [Postman](https://www.postman.com) (Runtime; Postman on the web) · [Booking.com](https://www.booking.com) (identity & SSO at scale)
 
 ---
 
