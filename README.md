@@ -1,6 +1,6 @@
 ### Hi, I'm Mohit 👋
 
-Engineering leader with 18+ years across **AI agents**, **data platforms**, **developer tooling**, and **reliable distributed backends**.
+Engineering leader with 15+ years across **AI agents**, **data platforms**, **developer tooling**, and **reliable distributed backends**.
 
 **Currently:** founder of [Norvia Labs](https://www.norvialabs.com), building open-source infrastructure for putting AI agents to work inside limits people set. 
 
